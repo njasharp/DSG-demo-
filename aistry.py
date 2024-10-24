@@ -36,7 +36,7 @@ def get_groq_client() -> Optional[Groq]:
 client = get_groq_client()
 
 # Sidebar - Story Parameters
-st.sidebar.image("p1.jpg")
+st.sidebar.image("p1.JPG")
 st.sidebar.title("Dynamic Story Generator")
 
 # New Topic Input at the Top
